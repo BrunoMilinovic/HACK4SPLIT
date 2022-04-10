@@ -39,3 +39,21 @@
   font-size: 32px;
   padding: 10px;
 }
+@media only screen and (max-width: 600px) {
+  .col2 {
+    display: flex;
+
+    flex-direction: column;
+  }
+  #col22 {
+    background-color: white;
+  }
+  #col22 iframe {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 325px;
+  }
+  .button22 {
+    padding: 7px 7px 7px 20px;
+  }
+}
