@@ -1,0 +1,101 @@
+.body2 {
+  background-image: url(https://previews.123rf.com/images/pitinan/pitinan1908/pitinan190804882/129293077-medical-healthcare-concept-doctor-in-hospital-with-digital-medical-icons-graphic-banner-showing-symb.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.account-block {
+  padding: 0;
+
+  background-image: url(https://images.pexels.com/photos/48604/pexels-photo-48604.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  position: relative;
+}
+.account-block .overlay {
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.account-block .account-testimonial {
+  text-align: center;
+  color: #fff;
+  position: absolute;
+  margin: 0 auto;
+  padding: 0 1.75rem;
+  bottom: 3rem;
+  left: 0;
+  right: 0;
+}
+.text-theme {
+  color: #5369f8 !important;
+}
+.btn-theme {
+  background-color: #5369f8;
+  border-color: #5369f8;
+  color: #fff;
+}
+
+// custom
+.private {
+  font-size: 14px;
+}
+.privatepolicy {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+#exampleInputPassword3 {
+  margin-left: 6px;
+  margin-right: 12px;
+  margin-top: 5px;
+}
+.emlink {
+  color: #10f0e9;
+  font-size: 14px;
+}
+
+/* CSS */
+.button24 {
+  margin-top: 10px;
+  background: #ff4742;
+  border: 1px solid #ff4742;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: nunito, roboto, proxima-nova, "proxima nova", sans-serif;
+  font-size: 16px;
+  width: 70%;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 14px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+}
+
+.button24:hover,
+.button24:active {
+  background-color: initial;
+  background-position: 0 0;
+  color: #ff4742;
+}
+
+.button24:active {
+  opacity: 0.5;
+}

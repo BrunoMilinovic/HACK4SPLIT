@@ -1,0 +1,92 @@
+.container {
+  display: flex;
+  margin-top: 10px;
+  padding: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.616);
+}
+
+.container h1 {
+  font-family: "Source Sans Pro", sans-serif;
+  text-align: center;
+  font-size: 38px;
+  color: black;
+}
+.container p {
+  font-family: "Source Sans Pro", sans-serif;
+  text-align: center;
+  font-size: 15px;
+  line-height: 1.8;
+  padding: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: gray;
+}
+.container2 {
+  box-shadow: 1px 2px 2px 1px gray;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+.container4 {
+  padding: 0px;
+  margin: 0px;
+  background-color: rgba(255, 255, 255, 0.666);
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.icon {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10px;
+}
+.icon p i {
+  color: #10f0e9;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+}
+
+/* CSS */
+.button31 {
+  background-color: #222;
+  border-radius: 4px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Farfetch Basis", "Helvetica Neue", Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.5;
+  margin: 0;
+  max-width: none;
+  min-height: 44px;
+  min-width: 10px;
+  outline: none;
+  overflow: hidden;
+  padding: 9px 20px 8px;
+  position: relative;
+  left: 170px;
+  text-align: center;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 50%;
+}
+
+.button31:hover,
+.button31:focus {
+  opacity: 0.75;
+}
