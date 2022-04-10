@@ -1,6 +1,6 @@
 import React from "react";
 import "../style/listTime.scss";
-import { Vrime } from "../data/index";
+
 function timelist() {
   function myFunction(target) {
     var popup = document.querySelector(`#${target}`);

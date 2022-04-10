@@ -44,7 +44,7 @@ function Footer() {
                 <a class="text-white">Become an Affiliate</a>
               </p>
               <p>
-                <a class="text-white">Shipping Rates</a>
+                <a class="text-white">Hospital</a>
               </p>
               <p>
                 <a class="text-white">Help</a>
