@@ -108,7 +108,7 @@ function Registation() {
                         </div>
                         <button type="submit" class="btn btn-theme">
                           <a
-                            href="/"
+                            href="/doctor"
                             style={{ textDecoration: "none", color: "white" }}
                           >
                             {" "}
