@@ -6,7 +6,7 @@ function timelist() {
     var popup = document.querySelector(`#${target}`);
     popup.classList.toggle("show");
     setTimeout(() => {
-      window.location.replace("http://localhost:3000/land");
+      window.location.replace("https://hack4split.herokuapp.com/land");
     }, 2500);
   }
   return (

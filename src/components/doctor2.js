@@ -16,9 +16,7 @@ function doctor() {
             radi, uživa u igranju tenisa, planinarenju i druženju sa suprugom i
             njihovo troje djece.
           </p>
-          <button class="button31" role="button">
-            Online sastanak
-          </button>
+
           <div className="container4">
             <div className="icon">
               <p>
